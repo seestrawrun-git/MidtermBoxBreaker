@@ -1,6 +1,7 @@
 Credit:
 
 This was made following a tutorial by the Coding Garden @ https://www.youtube.com/watch?v=3GLirU3SkDM
+Thank you Brooks and CJ!
 
 Tasks:
 
